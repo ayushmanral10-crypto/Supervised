@@ -1,1 +1,2 @@
 Supervised
+Basics and tutorials
